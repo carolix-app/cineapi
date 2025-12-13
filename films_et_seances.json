@@ -1,0 +1,31 @@
+{
+    "60": {
+        "info_film": {
+            "titre": "Alice dans les villes",
+            "date_sortie": "1974-05-17",
+            "notes": {
+                "LetterBox": "4.2",
+                "RottenTomatoes": "100",
+                "Sens Critique": "7.7",
+                "Allocine Presse": "0"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Le Champo",
+                "cinema_id": "C0073",
+                "salle": "2",
+                "heure_debut": "2025-12-16T21:10:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://pariscinemalechampo.cine.boutique/media/396?showId=30603",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8405",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    }
+}
