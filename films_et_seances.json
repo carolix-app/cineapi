@@ -27,5 +27,340 @@
                 "commentaire": ""
             }
         ]
+    },
+    "204": {
+        "info_film": {
+            "titre": "Furyo",
+            "date_sortie": "1983-06-01",
+            "notes": {
+                "LetterBox": "3.9",
+                "RottenTomatoes": "86",
+                "Sens Critique": "7.2",
+                "Allocine Presse": "0"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Forum des images",
+                "cinema_id": "C0119",
+                "salle": "300",
+                "heure_debut": "2025-12-19T21:00:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://www.forumdesimages.fr/furyo-1",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "9761",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "213": {
+        "info_film": {
+            "titre": "L'Homme qui venait d'ailleurs",
+            "date_sortie": "1976-04-08",
+            "notes": {
+                "LetterBox": "3.5",
+                "RottenTomatoes": "79",
+                "Sens Critique": "6.3",
+                "Allocine Presse": "0"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Forum des images",
+                "cinema_id": "C0119",
+                "salle": "500",
+                "heure_debut": "2025-12-20T16:00:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://www.forumdesimages.fr/lhomme-qui-venait-dailleurs-2",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "9762",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "226": {
+        "info_film": {
+            "titre": "Lolita",
+            "date_sortie": "1962-06-21",
+            "notes": {
+                "LetterBox": "3.5",
+                "RottenTomatoes": "89",
+                "Sens Critique": "7.3",
+                "Allocine Presse": "0"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Studio Galande",
+                "cinema_id": "C0016",
+                "salle": "",
+                "heure_debut": "2025-12-14T18:10:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://www.ticketingcine.com?EMS0837#showsession?id=emsx083700021753&ps=webedia",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "200965",
+                "experience": " ",
+                "commentaire": ""
+            },
+            {
+                "cinema_nom": "Studio Galande",
+                "cinema_id": "C0016",
+                "salle": "",
+                "heure_debut": "2025-12-16T15:00:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://www.ticketingcine.com?EMS0837#showsession?id=emsx083700021750&ps=webedia",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "200965",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "260": {
+        "info_film": {
+            "titre": "Orange mécanique",
+            "date_sortie": "1972-01-13",
+            "notes": {
+                "LetterBox": "4.1",
+                "RottenTomatoes": "86",
+                "Sens Critique": "8",
+                "Allocine Presse": "4.8"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Ecoles Cinema Club",
+                "cinema_id": "C0071",
+                "salle": "1",
+                "heure_debut": "2025-12-16T16:15:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://ecolescinemaclub.cotecine.fr/r/231157",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8401",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "264": {
+        "info_film": {
+            "titre": "La passion de Jeanne d'Arc",
+            "date_sortie": "1928-04-21",
+            "notes": {
+                "LetterBox": "4.4",
+                "RottenTomatoes": "98",
+                "Sens Critique": "8",
+                "Allocine Presse": "4.8"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Ecoles Cinema Club",
+                "cinema_id": "C0071",
+                "salle": "1",
+                "heure_debut": "2025-12-16T14:15:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://ecolescinemaclub.cotecine.fr/r/231156",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8401",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "309": {
+        "info_film": {
+            "titre": "Terminator",
+            "date_sortie": "1984-10-26",
+            "notes": {
+                "LetterBox": "3.9",
+                "RottenTomatoes": "90",
+                "Sens Critique": "7.3",
+                "Allocine Presse": "4"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Les 3 Luxembourg",
+                "cinema_id": "C0095",
+                "salle": "3",
+                "heure_debut": "2025-12-18T20:30:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://tickets.allocine.fr/paris-les-trois-luxembourg/reserver/r/27383",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8434",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "312": {
+        "info_film": {
+            "titre": "Théorème",
+            "date_sortie": "1968-11-27",
+            "notes": {
+                "LetterBox": "3.9",
+                "RottenTomatoes": "83",
+                "Sens Critique": "7.1",
+                "Allocine Presse": "0"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Studio Galande",
+                "cinema_id": "C0016",
+                "salle": "",
+                "heure_debut": "2025-12-18T20:10:00",
+                "langue": "VF",
+                "format_projection": "",
+                "lien_reservation": "https://www.ticketingcine.com?EMS0837#showsession?id=emsx083700021756&ps=webedia",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AB",
+                "ecran_id": "200965",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "313": {
+        "info_film": {
+            "titre": "The Rocky Horror Picture Show",
+            "date_sortie": "1975-08-31",
+            "notes": {
+                "LetterBox": "4",
+                "RottenTomatoes": "81",
+                "Sens Critique": "7.4",
+                "Allocine Presse": "0"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Studio Galande",
+                "cinema_id": "C0016",
+                "salle": "",
+                "heure_debut": "2025-12-19T21:10:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://www.ticketingcine.com?EMS0837#showsession?id=emsx083700021713&ps=webedia",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "200965",
+                "experience": " ",
+                "commentaire": "Séance animée par les Panic Babies"
+            },
+            {
+                "cinema_nom": "Studio Galande",
+                "cinema_id": "C0016",
+                "salle": "",
+                "heure_debut": "2025-12-20T21:00:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://www.ticketingcine.com?EMS0837#showsession?id=emsx083700021714&ps=webedia",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "200965",
+                "experience": " ",
+                "commentaire": "Séance animée par les Time Slips"
+            }
+        ]
+    },
+    "335": {
+        "info_film": {
+            "titre": "Jeune et innocent",
+            "date_sortie": "1939-11-23",
+            "notes": {
+                "LetterBox": "3.3",
+                "RottenTomatoes": "100",
+                "Sens Critique": "6.8",
+                "Allocine Presse": "5"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Christine Cinema Club",
+                "cinema_id": "C0015",
+                "salle": "2",
+                "heure_debut": "2025-12-14T19:55:00",
+                "langue": "VO",
+                "format_projection": "",
+                "lien_reservation": "https://christinecinemaclub.cotecine.fr/r/233609",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8452",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
+    },
+    "338": {
+        "info_film": {
+            "titre": "La grande illusion",
+            "date_sortie": "1937-10-04",
+            "notes": {
+                "LetterBox": "4.2",
+                "RottenTomatoes": "97",
+                "Sens Critique": "7.9",
+                "Allocine Presse": "5"
+            }
+        },
+        "seances_raw": [
+            {
+                "cinema_nom": "Le Champo",
+                "cinema_id": "C0073",
+                "salle": "2",
+                "heure_debut": "2025-12-14T19:25:00",
+                "langue": "VF",
+                "format_projection": "",
+                "lien_reservation": "https://pariscinemalechampo.cine.boutique/media/517?showId=30592",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8405",
+                "experience": " ",
+                "commentaire": ""
+            },
+            {
+                "cinema_nom": "Le Champo",
+                "cinema_id": "C0073",
+                "salle": "2",
+                "heure_debut": "2025-12-16T19:00:00",
+                "langue": "VF",
+                "format_projection": "",
+                "lien_reservation": "https://pariscinemalechampo.cine.boutique/media/517?showId=30602",
+                "reservation_siege": false,
+                "supplement_prix": false,
+                "source_api": "AO",
+                "ecran_id": "8405",
+                "experience": " ",
+                "commentaire": ""
+            }
+        ]
     }
 }
