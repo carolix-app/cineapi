@@ -1,0 +1,38 @@
+{
+  "recommendations": [
+    {
+      "title": "Interstellar (Blu-ray)",
+      "description": "Un voyage émotionnel et visuel à travers l'espace et le temps.",
+      "long_description": "Alors que la Terre se meurt, une équipe d'astronautes franchit un trou de ver apparu près de Saturne et conduisant à une autre galaxie, afin d'explorer un nouveau système stellaire dans l'espoir de trouver une planète habitable et d'y établir une colonie spatiale. La bande originale de Hans Zimmer prend toute son ampleur sur un bon système home cinéma.",
+      "url": "https://www.amazon.fr/dp/B00P8X99S2?tag=carolixtech-21"
+    }
+  ],
+  "tools": [
+    {
+      "title": "Vidéoprojecteur 4K Home Cinéma",
+      "description": "Qualité d'image exceptionnelle pour une immersion totale.",
+      "long_description": "Ce vidéoprojecteur offre une résolution 4K Ultra HD native pour une netteté incomparable. Avec sa luminosité élevée, il est parfait pour transformer n'importe quelle pièce en salle de cinéma privée.",
+      "url": "https://www.amazon.fr/dp/B08GP898S9?tag=carolixtech-21"
+    },
+    {
+      "title": "Barre de Son Dolby Atmos",
+      "description": "Un son spatialisé pour une expérience acoustique enveloppante.",
+      "long_description": "Grâce à la technologie Dolby Atmos, le son se déplace autour de vous dans un espace tridimensionnel, vous plaçant au cœur de l'action. Une mise à niveau indispensable pour tout cinéphile.",
+      "url": "https://www.amazon.fr/dp/B09C8L16S7?tag=carolixtech-21"
+    }
+  ],
+  "accessories": [
+    {
+      "title": "Machine à Popcorn Rétro",
+      "description": "Pour le goût et l'odeur du vrai cinéma chez vous.",
+      "long_description": "Cette machine à popcorn au design vintage utilise de l'air chaud pour préparer du popcorn croustillant sans ajout de matières grasses. Facile à utiliser et à nettoyer.",
+      "url": "https://www.amazon.fr/dp/B00004SPEU?tag=carolixtech-21"
+    },
+    {
+      "title": "Lumières LED Ambiance TV",
+      "description": "Améliorez le contraste et réduisez la fatigue oculaire.",
+      "long_description": "Ces bandes LED se fixent à l'arrière de votre téléviseur et projettent une lumière d'ambiance qui s'adapte au contenu de l'écran, élargissant visuellement l'image.",
+      "url": "https://www.amazon.fr/dp/B08L9RSC6X?tag=carolixtech-21"
+    }
+  ]
+}
